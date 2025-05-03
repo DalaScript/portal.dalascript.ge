@@ -1,0 +1,11 @@
+
+import style from "./Footer.module.css";
+
+export default function Footer() {
+
+    return (
+        <footer>
+            All rights reserved 2025 (C) DalaSciprt
+        </footer>
+    )
+}
